@@ -1,6 +1,8 @@
 # Jedi-Security-Port-Scanner
 Basic Port Scanner
 
+git clone https://github.com/jedisecX/Jedi-Security-Port-Scanner
+
 
 Network Security Scanner
 
